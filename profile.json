@@ -1,0 +1,144 @@
+[{
+    "version": "1.0",
+    "image": {
+      "name": "/home/videosdownloader/public_html/image/public/uploadt/IMG_20201220_100929-01-removebg__01.png",
+      "baseName": "IMG_20201220_100929-01-removebg__01.png",
+      "format": "PNG",
+      "formatDescription": "PNG",
+      "mimeType": "image/png",
+      "class": "DirectClass",
+      "geometry": {
+        "width": 2256,
+        "height": 3772,
+        "x": 0,
+        "y": 0
+      },
+      "units": "Undefined",
+      "type": "TrueColorAlpha",
+      "baseType": "Undefined",
+      "endianness": "Undefined",
+      "colorspace": "sRGB",
+      "depth": 8,
+      "baseDepth": 8,
+      "channelDepth": {
+        "alpha": 8,
+        "red": 8,
+        "green": 8,
+        "blue": 8
+      },
+      "pixels": 34038528,
+      "imageStatistics": {
+        "Overall": {
+          "min": 0,
+          "max": 255,
+          "mean": 66.0228,
+          "median": 0,
+          "standardDeviation": 23058.4,
+          "kurtosis": -0.596788,
+          "skewness": 1.01513,
+          "entropy": 0.425962
+        }
+      },
+      "channelStatistics": {
+        "alpha": {
+          "min": 0,
+          "max": 255,
+          "mean": 101.836,
+          "median": 0,
+          "standardDeviation": 31999.5,
+          "kurtosis": -1.82639,
+          "skewness": 0.411333,
+          "entropy": 0.145326
+        },
+        "red": {
+          "min": 0,
+          "max": 255,
+          "mean": 59.1783,
+          "median": 0,
+          "standardDeviation": 21118.2,
+          "kurtosis": -0.593328,
+          "skewness": 0.960463,
+          "entropy": 0.515998
+        },
+        "green": {
+          "min": 0,
+          "max": 255,
+          "mean": 53.6541,
+          "median": 0,
+          "standardDeviation": 19823,
+          "kurtosis": -0.315899,
+          "skewness": 1.07906,
+          "entropy": 0.521421
+        },
+        "blue": {
+          "min": 0,
+          "max": 255,
+          "mean": 49.423,
+          "median": 0,
+          "standardDeviation": 19293,
+          "kurtosis": 0.0494208,
+          "skewness": 1.23439,
+          "entropy": 0.521104
+        }
+      },
+      "alpha": "#00000000",
+      "renderingIntent": "Perceptual",
+      "gamma": 0.45455,
+      "chromaticity": {
+        "redPrimary": {
+          "x": 0.64,
+          "y": 0.33
+        },
+        "greenPrimary": {
+          "x": 0.3,
+          "y": 0.6
+        },
+        "bluePrimary": {
+          "x": 0.15,
+          "y": 0.06
+        },
+        "whitePrimary": {
+          "x": 0.3127,
+          "y": 0.329
+        }
+      },
+      "matteColor": "#BDBDBD",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#DFDFDF",
+      "transparentColor": "#00000000",
+      "interlace": "None",
+      "intensity": "Undefined",
+      "compose": "Over",
+      "pageGeometry": {
+        "width": 2256,
+        "height": 3772,
+        "x": 0,
+        "y": 0
+      },
+      "dispose": "Undefined",
+      "iterations": 0,
+      "compression": "Zip",
+      "orientation": "Undefined",
+      "properties": {
+        "date:create": "2021-09-28T05:48:10+00:00",
+        "date:modify": "2021-09-28T05:48:10+00:00",
+        "png:cHRM": "chunk was found (see Chromaticity, above)",
+        "png:gAMA": "gamma=0.45455 (See Gamma, above)",
+        "png:IHDR.bit-depth-orig": "8",
+        "png:IHDR.bit_depth": "8",
+        "png:IHDR.color-type-orig": "6",
+        "png:IHDR.color_type": "6 (RGBA)",
+        "png:IHDR.interlace_method": "0 (Not interlaced)",
+        "png:IHDR.width,height": "2256, 3772",
+        "png:sRGB": "intent=0 (Perceptual Intent)",
+        "signature": "5475dde881494a5c52863862120c12ed30d2c3fba376b8a8fabad4ca01a7a728"
+      },
+      "tainted": false,
+      "filesize": "6159030B",
+      "numberPixels": "8.50963M",
+      "pixelsPerSecond": "11.4455MB",
+      "userTime": "0.900u",
+      "elapsedTime": "0:01.743",
+      "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+    }
+  }]
