@@ -37,6 +37,15 @@
 
 <body>
   <!-- ======= Header ======= -->
+<!-- <div class="preloader">
+
+</div>
+  <span class="loader"></span> -->
+  
+<div class="loader_bg">
+  <div class="loader"></div>
+</div>
+
   <header id="header" class="">
     <div class="container">
 
@@ -699,6 +708,13 @@
 	}
 	// ]]>
 </script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        setTimeout(function(){
+            $('.loader_bg').fadeToggle();
+        }, 1500);
+    </script>
 
 
 </body></html>
