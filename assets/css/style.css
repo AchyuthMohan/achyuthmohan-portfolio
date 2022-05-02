@@ -15,6 +15,11 @@ body {
   position: relative;
   background: transparent;
 }
+
+
+
+
+
 .logo{
   width: 383;
   height: 83;
@@ -23,7 +28,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/IMG_20201220_100929-01-removebg__01.png") top right no-repeat;
+  background: #04121f url("../img/IMG_20201220_100929-01-removebg__01.png") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -1174,3 +1179,4 @@ section .container {
     height: 4%;
   }
 }
+
