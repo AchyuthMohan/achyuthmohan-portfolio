@@ -22,7 +22,11 @@ body {
 
 .logo{
   width: 383;
-  height: 83;
+  height: 148;
+}
+.logo2{
+  height: 142px;
+  width: 383;
 }
 
 body::before {
@@ -1177,6 +1181,11 @@ section .container {
   .logo{
     width: 77%;
     height: 4%;
+  }
+  .logo2{
+    width: 77%;
+    height: 4%;
+    margin-bottom: 12%;
   }
 }
 
