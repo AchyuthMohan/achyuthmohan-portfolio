@@ -1063,7 +1063,14 @@ section .container {
   text-align: center;
   padding: 15px;
 }
-
+.int_certi{
+  color: #0047AB;
+  font-size: 123%;
+  width: fit-content;
+  display: flex;
+  opacity:initial;
+  font-family: monospace;
+}
 .contact .php-email-form .loading:before {
   content: "";
   display: inline-block;
